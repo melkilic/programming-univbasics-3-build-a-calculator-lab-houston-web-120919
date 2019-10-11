@@ -24,6 +24,6 @@ return num1 % num2
 end
 
 def square_root(num)
-puts (num1 ** num2).Math.sqrt
-return (num1 ** num2).Math.sqrt
+puts Math.sqrt(num1 ** num2)
+return Math.sqrt(num1 ** num2)
 end
